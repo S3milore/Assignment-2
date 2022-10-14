@@ -17,6 +17,6 @@ function counter(val, step) {
       const result = Math.floor(Math.random() * (max - min + 1)) + min;
       return result;
     };
-  console.log(counter(10, 100));
-  console.log(numGen(20, 2))
-  
+  console.log(counter(3,10));
+  console.log(numGen(3, 1000))
+  https://jsfiddle.net/S3milore/8k1stLoj/125/  
